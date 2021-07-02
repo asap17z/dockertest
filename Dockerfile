@@ -1,4 +1,4 @@
-FROM ubuntu:lastest
+FROM ubuntu:latest
 
 LABEL "image author"="ephraim"
 LABEL "version"="0.0.1"
